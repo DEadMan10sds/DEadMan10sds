@@ -10,7 +10,7 @@
 - 💬 Ask me about Web dev & Videogames
 - 📫 How to reach me:
 
-# :milky_way: Languages <img src = "https://media1.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76110ffef46fbba883483a13ddda16224f891334229e&rid=giphy.gif&ct=g" width = 32px> 
+# :milky_way: Languages <img src = "https://media1.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76110ffef46fbba883483a13ddda16224f891334229e&rid=giphy.gif&ct=g" width = 42px> 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
