@@ -1,7 +1,7 @@
-### Intelligent Systems Student
-## UASLP - In progress
+# 👷‍♂️ Intelligent Systems Student
+## 🏫 UASLP - In progress
 
-## Web developer - Videogame developer - Cibersecurity pupil
+## :information_desk_person: Web developer - Videogame developer - Cibersecurity pupil
 
 
 - 🔭 I’m currently working on Fullstack JS web dev
