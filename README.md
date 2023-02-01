@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Angular, React, NodeJS & Flutter
 - 🤔 I’m looking for help with UX/UI
 - 💬 Ask me about Web dev & Videogames
-- 📫 How to reach me:
+- 📫 Always ready for new projects
 
 # :milky_way: Languages <img src = "https://media1.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif?cid=790b76110ffef46fbba883483a13ddda16224f891334229e&rid=giphy.gif&ct=g" width = 42px> 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
