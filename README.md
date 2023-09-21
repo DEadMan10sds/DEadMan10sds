@@ -1,10 +1,9 @@
-# 👷‍♂️ Intelligent Systems Student
-## 🏫 UASLP - In progress
+# 👷‍♂️ Intelligent Systems Engineer - 🏫 UASLP
 
 ## :information_desk_person: Web developer - Videogame developer - Cibersecurity pupil
 
 
-- 🔭 I’m currently working on NodeJS backend developer
+- 🔭 I’m currently working as a NodeJS backend developer
 - 🌱 I’m currently learning Angular, React, NodeJS & Flutter
 - 🤔 I’m looking for help with UX/UI
 - 💬 Ask me about Web dev & Videogames
