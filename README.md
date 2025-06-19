@@ -3,8 +3,8 @@
 ## :information_desk_person: Web developer - Videogame developer - Cibersecurity pupil
 
 
-- 🔭 I’m currently working as Fullstack Intern
-- 🌱 I’m currently learning Angular, React, NodeJS & Flutter
+- 🔭 I’m currently working as Semi-senior fullstack developer
+- 🌱 I’m currently learning React, NestJS & PostgreSQL
 - 🤔 I’m looking for help with UX/UI
 - 💬 Ask me about Web dev & Videogames
 - 📫 Always ready for new projects
@@ -20,9 +20,9 @@
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-ea2868?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-58C4DC?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
