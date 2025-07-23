@@ -1,6 +1,6 @@
 # 👷‍♂️ Intelligent Systems Engineer - 🏫 UASLP
 
-## :information_desk_person: Web developer - Videogame developer - Cibersecurity pupil
+## :information_desk_person: Web developer - Videogame development fan
 
 
 - 🔭 I’m currently working as Semi-senior fullstack developer
