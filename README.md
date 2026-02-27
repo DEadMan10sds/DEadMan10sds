@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working as Semi-senior fullstack developer
 - 🌱 I’m currently learning React, NestJS & PostgreSQL
+- 🖥️ Starting home-labbing and server management
 - 🤔 I’m looking for help with UX/UI
 - 💬 Ask me about Web dev & Videogames
 - 📫 Always ready for new projects
